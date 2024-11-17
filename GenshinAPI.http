@@ -1,0 +1,6 @@
+@GenshinAPI_HostAddress = http://localhost:5079
+
+GET {{GenshinAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

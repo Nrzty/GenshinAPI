@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yDsuvFo4MG6tZzHqIBh12Ro7vVYW+3gIbSy4DQKp6hs=",
+  "Source": "GenshinAPI",
+  "BasePath": "_content/GenshinAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
